@@ -1,8 +1,65 @@
-<h1 align="center">Esma Bilgin</h1>
+<!-- Animated Header -->
 
 <p align="center">
-Computer Engineering Student • Mobile Development • Artificial Intelligence
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Esma+Bilgin;Mobile+Developer+%7C+AI+Enthusiast;Building+Technology+With+Impact" />
 </p>
+
+---
+
+<!-- Banner GIF -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+Computer Engineering student at Sakarya University <br>
+Focused on Mobile Development and Artificial Intelligence <br>
+Experienced in interdisciplinary and competition-based projects
+</p>
+
+---
+
+<h2 align="center">Current Work</h2>
+
+<p align="center">
+TÜBİTAK 2209-B Disaster Localization Project <br>
+Swift & iOS Development <br>
+NASA Space Apps & Teknofest Projects
+</p>
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,swift,html,css,git,github"/>
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=egbilgin&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbilgin&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">Contribution Snake 🐍</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/egbilgin/egbilgin/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
 <a href="mailto:esmagulsumbilgin@gmail.com">
@@ -12,55 +69,4 @@ Computer Engineering Student • Mobile Development • Artificial Intelligence
 <a href="https://linkedin.com/in/esma-gülsüm-bilgin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
-
----
-
-### <p align="center">About Me</p>
-
-<p align="center">
-I am a 3rd year Computer Engineering student at Sakarya University. <br>
-My main focus areas are mobile application development and artificial intelligence. <br>
-I enjoy working on real-world problem solving projects and interdisciplinary technologies.
-</p>
-
----
-
-### <p align="center">Current Focus</p>
-
-<p align="center">
-TÜBİTAK 2209-B Disaster Location Project (BLE Mesh & Wi-Fi FTM)<br>
-Swift & iOS Ecosystem Development<br>
-NASA Space Apps & Teknofest Project Experience
-</p>
-
----
-
-### <p align="center">Tech Stack</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,swift,html,css,git,github"/>
-</p>
-
----
-
-### <p align="center">GitHub Analytics</p>
-
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=egbilgin&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbilgin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### <p align="center">Contribution Activity</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=egbilgin&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-Building technology that creates real impact.
 </p>
