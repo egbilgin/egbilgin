@@ -24,14 +24,33 @@ Experienced in interdisciplinary and competition-based projects
 </p>
 
 ---
+## 🚀 Current Work
 
-<h2 align="center">Current Work</h2>
+### 🔬 TÜBİTAK 2209-B Disaster Localization Project
+![AI](https://img.shields.io/badge/AI-Research-purple?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-Arduino-teal?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<p align="center">
-TÜBİTAK 2209-B Disaster Localization Project <br>
-Swift & iOS Development <br>
-NASA Space Apps & Teknofest Projects
-</p>
+📍 Developing disaster detection & localization systems using IoT sensors and AI models.
+
+---
+
+### 📱 Mobile Development (Flutter & iOS)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+📍 Cross-platform mobile applications & iOS ecosystem development.
+
+---
+
+### 🛰 NASA Space Apps & Teknofest Projects
+![SpaceTech](https://img.shields.io/badge/Space-Tech-blueviolet?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Team-Based-orange?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/Innovation-Driven-red?style=for-the-badge)
+
+📍 Competition-based interdisciplinary engineering projects.
+
 
 ---
 
