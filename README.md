@@ -54,6 +54,44 @@ NASA Space Apps & Teknofest Projects
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+### 🧠 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,js,dart,python"/>
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,aspnet"/>
+</p>
+
+---
+
+### 📱 Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,swift"/>
+</p>
+
+---
+
+### 🤖 IoT & Embedded
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,dotnet"/>
+</p>
+
 
 
 
