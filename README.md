@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Esma+Bilgin;Mobile+Developer+%7C+AI+Enthusiast;Building+Technology+With+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Esma+Gulsum+Bilgin;Mobile+Developer+%7C+AI+Enthusiast;Building+Technology+With+Impact" />
 </p>
 
 ---
