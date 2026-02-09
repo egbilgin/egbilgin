@@ -13,6 +13,15 @@ Computer Engineering student at Sakarya University <br>
 Focused on Mobile Development and Artificial Intelligence <br>
 Experienced in interdisciplinary and competition-based projects
 </p>
+<p align="center">
+<a href="mailto:esmagulsumbilgin@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/esma-gülsüm-bilgin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -47,18 +56,4 @@ NASA Space Apps & Teknofest Projects
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/egbilgin/egbilgin/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<h2 align="center">Connect With Me</h2>
-
-<p align="center">
-<a href="mailto:esmagulsumbilgin@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/esma-gülsüm-bilgin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 </p>
