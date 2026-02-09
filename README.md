@@ -25,12 +25,13 @@ Experienced in interdisciplinary and competition-based projects
 
 ---
 
+
 <h2 align="center">Current Work</h2>
 
 <p align="center">
-TÜBİTAK 2209-B Disaster Localization Project <br>
-Swift & iOS Development <br>
-NASA Space Apps & Teknofest Projects
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Satelite.svg" width="20" height="20" /> <b>TÜBİTAK 2209-B:</b> Disaster Localization Project <br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" width="20" height="20" /> <b>Swift & iOS:</b> Application Development <br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rocket.svg" width="20" height="20" /> <b>Competition:</b> NASA Space Apps & Teknofest Projects
 </p>
 
 ---
