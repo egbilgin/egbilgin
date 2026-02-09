@@ -25,25 +25,13 @@ Experienced in interdisciplinary and competition-based projects
 
 ---
 
-## Current Work
+<h2 align="center">Current Work</h2>
 
 <p align="center">
-
-🔬 <b>TÜBİTAK 2209-B Disaster Localization Project</b>  
-Developing AI-supported disaster detection and localization systems using IoT technologies.
-
-<br><br>
-
-📱 <b>Mobile Development</b>  
-Building cross-platform applications using Flutter and native iOS development with Swift.
-
-<br><br>
-
-🛰 <b>NASA Space Apps & Teknofest Projects</b>  
-Participating in interdisciplinary engineering and space technology competitions.
-
+TÜBİTAK 2209-B Disaster Localization Project <br>
+Swift & iOS Development <br>
+NASA Space Apps & Teknofest Projects
 </p>
-
 
 ---
 
