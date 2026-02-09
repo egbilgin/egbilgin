@@ -40,8 +40,10 @@ NASA Space Apps & Teknofest Projects
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,swift,html,css,git,github"/>
 </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,swift,python,html,css,git,github,firebase,mysql&perline=5"/>
+</p>
 
----
 
 <h2 align="center">GitHub Stats</h2>
 
