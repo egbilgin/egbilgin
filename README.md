@@ -1,6 +1,5 @@
 <h1 align="center">Selam, ben Esma 👋</h1>
 
-<p align="center">
 💻 Bilgisayar Mühendisliği Öğrencisi <br>
 📱 Mobile Developer Adayı <br>
 🤖 Yapay Zeka Meraklısı <br>
