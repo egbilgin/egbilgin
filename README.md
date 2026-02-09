@@ -1,16 +1,58 @@
-# Selam, ben Esma! 👋
+<h1 align="center">Selam, ben Esma 👋</h1>
 
-Sakarya Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. 
-Mobil uygulama geliştirme ve yapay zeka konularına büyük ilgi duyuyorum.
+<p align="center">
+💻 Bilgisayar Mühendisliği Öğrencisi <br>
+📱 Mobile Developer Adayı <br>
+🤖 Yapay Zeka Meraklısı <br>
+🚀 Proje üretmeyi seven biri
+</p>
 
-## 🚀 Nelerle Uğraşıyorum?
-* **TÜBİTAK 2209-B:** BLE Mesh ve Wi-Fi FTM ile afet sonrası konumlandırma projesi üzerinde çalışıyorum.
-* **Swift:** Şu an aktif olarak Swift dilini ve iOS ekosistemini öğreniyorum.
-* **Deneyim:** NASA Space Apps Challenge organizasyon koordinatörlüğü ve Teknofest projelerinde yer aldım.
+---
 
-## 🛠 Teknolojiler
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+### 🎨 Hakkımda
 
-📫 Bana ulaşmak için: @esmagulsumbilgin@gmail.com
+✨ Sakarya Üniversitesi 3. sınıf Bilgisayar Mühendisliği öğrencisiyim  
+✨ Mobil uygulama geliştirme ve yapay zekaya ilgim var  
+✨ Yeni teknolojileri keşfetmeyi seviyorum 
+
+---
+
+### 🚀 Şu An Neler Yapıyorum?
+
+🔬 TÜBİTAK 2209-B Afet sonrası konumlandırma projesi  
+🍎 Swift & iOS geliştirme öğreniyorum  
+🌌 NASA Space Apps ve Teknofest projelerinde yer aldım  
+📚 Yazılım mimarileri ve clean code üzerine çalışıyorum  
+
+---
+
+### 🛠 Teknolojilerim
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,swift,html,css,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Evrenim
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=egbilgin&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=egbilgin&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Bana Ulaş
+
+📧 esmagulsumbilgin@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/esma-gülsüm-bilgin  
+
+---
+
+<p align="center">
+✨ Profilime uğradığın için teşekkür ederim ✨
+</p>
