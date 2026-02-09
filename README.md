@@ -49,11 +49,3 @@ NASA Space Apps & Teknofest Projects
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=egbilgin&show_icons=true&theme=radical&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbilgin&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
----
-
-<h2 align="center">Contribution Snake 🐍</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/egbilgin/egbilgin/output/github-contribution-grid-snake.svg"/>
-</p>
