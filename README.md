@@ -28,13 +28,11 @@ Experienced in interdisciplinary and competition-based projects
 <h2 align="center">Current Work</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TÜBİTAK_2209--B-Disaster_Localization_Project-blue?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Swift_&_iOS-Development-orange?style=for-the-badge&logo=swift&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/NASA_Space_Apps-Organization-black?style=for-the-badge&logo=nasa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Teknofest-Projects-red?style=for-the-badge&logo=rocket&logoColor=white" />
+TÜBİTAK 2209-B Disaster Localization Project <br>
+Swift & iOS Development <br>
+NASA Space Apps & Teknofest Projects
 </p>
+
 ---
 
 <h2 align="center">Tech Stack</h2>
