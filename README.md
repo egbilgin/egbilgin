@@ -24,32 +24,25 @@ Experienced in interdisciplinary and competition-based projects
 </p>
 
 ---
-## 🚀 Current Work
 
-### 🔬 TÜBİTAK 2209-B Disaster Localization Project
-![AI](https://img.shields.io/badge/AI-Research-purple?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-Arduino-teal?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## Current Work
 
-📍 Developing disaster detection & localization systems using IoT sensors and AI models.
+<p align="center">
 
----
+🔬 <b>TÜBİTAK 2209-B Disaster Localization Project</b>  
+Developing AI-supported disaster detection and localization systems using IoT technologies.
 
-### 📱 Mobile Development (Flutter & iOS)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br><br>
 
-📍 Cross-platform mobile applications & iOS ecosystem development.
+📱 <b>Mobile Development</b>  
+Building cross-platform applications using Flutter and native iOS development with Swift.
 
----
+<br><br>
 
-### 🛰 NASA Space Apps & Teknofest Projects
-![SpaceTech](https://img.shields.io/badge/Space-Tech-blueviolet?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Team-Based-orange?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/Innovation-Driven-red?style=for-the-badge)
+🛰 <b>NASA Space Apps & Teknofest Projects</b>  
+Participating in interdisciplinary engineering and space technology competitions.
 
-📍 Competition-based interdisciplinary engineering projects.
+</p>
 
 
 ---
@@ -98,4 +91,3 @@ Experienced in interdisciplinary and competition-based projects
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=egbilgin&show_icons=true&theme=radical&hide_border=true"/>
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egbilgin&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
