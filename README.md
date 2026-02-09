@@ -56,26 +56,8 @@ NASA Space Apps & Teknofest Projects
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <p align="">
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,js,dart,python"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,js,dart,python,html,css,aspnet,flutter,swift,arduino,git,github,visualstudio,vscode,dotnet"/>
 </p>
-
-<p align="">
-<img src="https://skillicons.dev/icons?i=html,css,aspnet"/>
-</p>
-
-<p align="">
-<img src="https://skillicons.dev/icons?i=flutter,swift"/>
-</p>
-
-<p align="">
-<img src="https://skillicons.dev/icons?i=arduino"/>
-</p>
-
-<p align="">
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,dotnet"/>
-</p>
-
-
 
 
 
