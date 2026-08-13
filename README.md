@@ -18,7 +18,7 @@ Experienced in interdisciplinary and competition-based projects
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/esma-gülsüm-bilgin">
+<a href="https://www.linkedin.com/in/esma-gülsüm-bilgin-743579289/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
