@@ -1,5 +1,4 @@
 <!-- Animated Header -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Esma+Gulsum+Bilgin;Mobile+Developer+%7C+AI+Enthusiast;Building+Technology+With+Impact" />
 </p>
@@ -71,37 +70,20 @@ Experienced in interdisciplinary and competition-based projects
 
 ---
 
-<h2 align="center">GitHub Analytics & Streak</h2>
+<h2 align="center">GitHub Stats & Trophies</h2>
 
-<!-- Modern Minimal Stats -->
+<!-- Otomatik GitHub Kupaları -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=egbilgin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<!-- Şık GitHub İstatistikleri -->
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=egbilgin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F5AF0&icon_color=7F5AF0&text_color=c9d1d9" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbilgin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F5AF0&text_color=c9d1d9" />
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak Sayacı -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=egbilgin&theme=tokyonight&hide_border=true&background=0d1117&ring=7F5AF0&fire=7F5AF0&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center">Contribution Activity</h2>
-
-<!-- Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/egbilgin/egbilgin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/egbilgin/egbilgin/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/egbilgin/egbilgin/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-<!-- Spotify Now Playing -->
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
 </p>
